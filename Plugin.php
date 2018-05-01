@@ -91,7 +91,7 @@ class CodeHighlighter_Plugin implements Typecho_Plugin_Interface {
 		var pres = document.querySelectorAll('pre');
 		var lineNumberClassName = 'line-numbers';
 		pres.forEach(function (item, index) {
-			item.className = item.className == '' ? lineNumberClassName : ele.className + ' ' + lineNumberClassName;
+			item.className = item.className == '' ? lineNumberClassName : item.className + ' ' + lineNumberClassName;
 		});
 	})();
 </script>
