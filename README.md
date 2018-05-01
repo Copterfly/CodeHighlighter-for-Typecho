@@ -50,6 +50,7 @@ github开源地址：[https://github.com/Copterfly/CodeHighlighter-for-Typecho][
 如有需要，请勾选需要支持的语言定制您的 js 和 css 文件，下载好后，分别替换以下文件：
 
 `Typecho 插件目录\CodeHighlighter\static\prism.js`
+
 `Typecho 插件目录\CodeHighlighter\static\styles\改为对应的风格名.css`
 
 **建议**
