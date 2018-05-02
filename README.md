@@ -23,9 +23,9 @@ github开源地址：[https://github.com/Copterfly/CodeHighlighter-for-Typecho][
 **代码写法**
 
 ```
-\`\`\`javascript(语言类型必填)
-// codes go here
-\`\`\`
+'''javascript (语言类型必填)
+  // codes go here
+'''
 ```
 
 **高亮效果图**
