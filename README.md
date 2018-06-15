@@ -76,13 +76,11 @@ github开源地址：[https://github.com/Copterfly/CodeHighlighter-for-Typecho][
 
 作者：Copterfly
 
-主页：[http://www.copterfly.cn/][5]
-
-有问题请留言交流。
+有问题请到博客留言交流：[http://www.copterfly.cn/server-side/php/typecho-code-highlighter.html][5]
 
 
   [1]: https://github.com/Copterfly/CodeHighlighter-for-Typecho
   [2]: http://prismjs.com/
   [3]: http://www.copterfly.cn/usr/uploads/2018/05/2713638326.png
   [4]: http://prismjs.com/download.html#themes=prism-okaidia&languages=markup+css+clike+javascript+apacheconf+c+aspnet+bash+cpp+csharp+coffeescript+markup-templating+git+java+less+markdown+nginx+php+sql+python+smarty&plugins=line-numbers+toolbar+show-language+copy-to-clipboard
-  [5]: http://www.copterfly.cn/
+  [5]: http://www.copterfly.cn/server-side/php/typecho-code-highlighter.html
